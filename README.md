@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐁𝐢𝐬𝐡𝐧𝐨𝐢+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐁𝐢𝐬𝐡𝐧𝐨𝐢+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="[Logo/PROFESSOR-BOT.jpeg](https://github.com/abhibotmaker/Professorbot/tree/main/Logo)" alt="BISHNOI BOTZ LOGO">
+  <img src="[Logo/Professorbot.jpeg]" alt="BISHNOI BOTZ LOGO">
 </p>
 <h1 align="center">
   <b> 𝗕𝗶𝘀𝗵𝗻𝗼𝗶 𝐁𝐎𝐓</b>
